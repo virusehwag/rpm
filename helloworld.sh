@@ -1,1 +1,1 @@
-echo "NEW Hello World"
+echo "Hello World"
